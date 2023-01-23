@@ -1,2 +1,2 @@
-# Los-Ninjas-De-La-Tecnolog-a
+# Los-Ninjas-De-La-Tecnologia
 integrantes
