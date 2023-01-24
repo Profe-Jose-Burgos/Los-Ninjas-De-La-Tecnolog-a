@@ -4,4 +4,3 @@ Sabrina De Gracia
 Leonardo Marciaga
 Liliana Ledezma
 Cesar Vigil (lider)
-Hanzel
