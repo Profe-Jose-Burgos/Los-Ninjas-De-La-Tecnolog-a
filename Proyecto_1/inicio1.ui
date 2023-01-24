@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>796</width>
+    <height>730</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1000</width>
+     <height>800</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>PROYECTO2/IMAGENES/700-dgadr-tecnologia-ponta-rega-reflete-mudanca-agricultura.jpg</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>280</x>
+     <y>50</y>
+     <width>271</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 87 28pt &quot;Segoe UI Black&quot;; color: rgb(255, 255, 255);
+
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="textFormat">
+    <enum>Qt::AutoText</enum>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit">
+   <property name="geometry">
+    <rect>
+     <x>280</x>
+     <y>230</y>
+     <width>311</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgba(0,0,0,0);
+border: none;
+border- buttom: 2px sold rgba(60,0,101,200);
+color:rgba(0,100,50,240);
+padding-bottom: 7px;</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>801</width>
+     <height>731</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color:rgba(0,0,0,160);
+font: 14pt &quot;Arial Rounded MT Bold&quot;;
+border-radius:20px</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_2">
+   <property name="geometry">
+    <rect>
+     <x>230</x>
+     <y>240</y>
+     <width>361</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color:rgba(106, 106, 106,70);
+border:none;
+border-bottom:2px goldrgba(5,5,5,10);
+color:rgba(255,255,255,230);
+padding-bottom:5px;
+</string>
+   </property>
+   <property name="text">
+    <string> Nombre de usuario</string>
+   </property>
+   <property name="frame">
+    <bool>true</bool>
+   </property>
+   <property name="cursorPosition">
+    <number>18</number>
+   </property>
+   <property name="placeholderText">
+    <string>Nombre de usuario</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_3">
+   <property name="geometry">
+    <rect>
+     <x>230</x>
+     <y>350</y>
+     <width>361</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color:rgba(106, 106, 106,70);
+border:none;
+border-bottom:2px goldrgba(5,5,5,10);
+color:rgba(255,255,255,230);
+padding-bottom:5px;
+</string>
+   </property>
+   <property name="text">
+    <string> Contraseña</string>
+   </property>
+   <property name="frame">
+    <bool>true</bool>
+   </property>
+   <property name="cursorPosition">
+    <number>11</number>
+   </property>
+   <property name="placeholderText">
+    <string>Contraseña</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_4">
+   <property name="geometry">
+    <rect>
+     <x>300</x>
+     <y>460</y>
+     <width>211</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="layoutDirection">
+    <enum>Qt::LeftToRight</enum>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 25 22pt &quot;Yu Gothic UI Light&quot;;
+font: 12pt &quot;Microsoft Sans Serif&quot;;</string>
+   </property>
+   <property name="text">
+    <string>Iniciar sesión</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+   <property name="cursorMoveStyle">
+    <enum>Qt::LogicalMoveStyle</enum>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_4">
+   <property name="geometry">
+    <rect>
+     <x>300</x>
+     <y>520</y>
+     <width>211</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255);</string>
+   </property>
+   <property name="text">
+    <string>Olvidaste tu usuario o  contraseña?</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_5">
+   <property name="geometry">
+    <rect>
+     <x>280</x>
+     <y>10</y>
+     <width>241</width>
+     <height>151</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">image: url(:/NEW/WhatsApp_Image_2023-01-23_at_9.54.58_PM-removebg-preview.png);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_6">
+   <property name="geometry">
+    <rect>
+     <x>300</x>
+     <y>130</y>
+     <width>221</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255);
+font: 75 28pt &quot;MS Shell Dlg 2&quot;;</string>
+   </property>
+   <property name="text">
+    <string>Bienvenido!</string>
+   </property>
+  </widget>
+  <zorder>label</zorder>
+  <zorder>lineEdit</zorder>
+  <zorder>label_3</zorder>
+  <zorder>label_2</zorder>
+  <zorder>lineEdit_2</zorder>
+  <zorder>lineEdit_3</zorder>
+  <zorder>lineEdit_4</zorder>
+  <zorder>label_4</zorder>
+  <zorder>label_5</zorder>
+  <zorder>label_6</zorder>
+ </widget>
+ <resources>
+  <include location="PROYECTO2/IMAGENES/source.qrc"/>
+  <include location="PROYECTO3/source.qrc"/>
+ </resources>
+ <connections/>
+</ui>
