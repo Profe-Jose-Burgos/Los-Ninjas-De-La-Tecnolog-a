@@ -1,0 +1,107 @@
+<RCC>
+  <qresource prefix="IMAGENES">
+    <file>700-dgadr-tecnologia-ponta-rega-reflete-mudanca-agricultura.jpg</file>
+  </qresource>
+  <qresource prefix="mma">
+    <file>descarga (4).jfif</file>
+  </qresource>
+  <qresource prefix="tom">
+    <file>cuidados-de-cultivos-de-tomate-encabezado.jpg</file>
+  </qresource>
+  <qresource prefix="Maiz">
+    <file>características-del-maíz.jpg</file>
+  </qresource>
+  <qresource prefix="BANANO">
+    <file>MSC16006700_s.jpg</file>
+  </qresource>
+  <qresource prefix="TOMATE">
+    <file>WhatsApp Image 2023-01-24 at 2.13.28 PM.jpeg</file>
+  </qresource>
+  <qresource prefix="CANNA">
+    <file>usos-cana-de-azucar.jpg</file>
+  </qresource>
+  <qresource prefix="CAÑA">
+    <file>Caña de azucar.jpg</file>
+  </qresource>
+  <qresource prefix="ALGODON">
+    <file>pexels-cottonbro-studio-4273426.jpg</file>
+  </qresource>
+  <qresource prefix="BANANO">
+    <file>banano.png</file>
+  </qresource>
+  <qresource prefix="JR">
+    <file>trigo.jpg</file>
+  </qresource>
+  <qresource prefix="PAPA">
+    <file>WhatsApp Image 2023-01-24 at 2.10.26 PM.jpeg</file>
+  </qresource>
+  <qresource prefix="YUCA">
+    <file>WhatsApp Image 2023-01-24 at 2.11.58 PM.jpeg</file>
+  </qresource>
+  <qresource prefix="BTO">
+    <file>mas (1).png</file>
+  </qresource>
+  <qresource prefix="AGREGAR">
+    <file>agregar.png</file>
+  </qresource>
+  <qresource prefix="HISTORIAL">
+    <file>reloj.png</file>
+  </qresource>
+  <qresource prefix="ANALISIS">
+    <file>analisis.png</file>
+  </qresource>
+  <qresource prefix="eNFERME">
+    <file>virus.png</file>
+  </qresource>
+  <qresource prefix="PLAGAS">
+    <file>cucaracha.png</file>
+  </qresource>
+  <qresource prefix="AYUDA">
+    <file>informacion.png</file>
+  </qresource>
+  <qresource prefix="SEARCH">
+    <file>loupe.png</file>
+  </qresource>
+  <qresource prefix="SEARCH2">
+    <file>search.png</file>
+  </qresource>
+  <qresource prefix="PERS">
+    <file>person.png</file>
+  </qresource>
+  <qresource prefix="BELL">
+    <file>bell (1).png</file>
+  </qresource>
+  <qresource prefix="BELL2">
+    <file>bell.png</file>
+  </qresource>
+  <qresource prefix="BELL3">
+    <file>bell (2).png</file>
+  </qresource>
+  <qresource prefix="User1">
+    <file>usuario.png</file>
+  </qresource>
+  <qresource prefix="USER2">
+    <file>usuario (1).png</file>
+  </qresource>
+  <qresource prefix="ICOONO">
+    <file>menu.png</file>
+  </qresource>
+  <qresource prefix="NEW">
+    <file>WhatsApp_Image_2023-01-23_at_9.54.58_PM-removebg-preview.png</file>
+  </qresource>
+  <qresource prefix="OTROF">
+    <file>campo-abierto-de-soja-al-atardecer-en-el-sunsetsoybean-209126775.jpg</file>
+  </qresource>
+  <qresource prefix="OTROFO">
+    <file>campos-de-cultivo.jpg</file>
+  </qresource>
+  <qresource prefix="FONDO">
+    <file>campo-abierto-de-soja-al-atardecer-en-el-sunsetsoybean-209126775.jpg</file>
+  </qresource>
+  <qresource prefix="OTRO">
+    <file>rotacion-de-cultivos-1200x675.jpg</file>
+  </qresource>
+  <qresource prefix="WE">
+    <file>WhatsApp Image 2023-01-23 at 9.54.57 PM.jpeg</file>
+  </qresource>
+</RCC>
